@@ -1,0 +1,7 @@
+- **Service** Permanant ip address given to each pod
+- Lifecycle of service and pod is not connected.
+- External service open to outside
+- Internal only for internal
+- Usually external service is not practicle, since it's just ip address
+- **Ingress** Forwards or route netwerk to services
+- To see another functionality of service see [[Deployment and Stateful Set]]
