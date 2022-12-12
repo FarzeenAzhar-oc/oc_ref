@@ -1,11 +1,20 @@
-# Obsidian Notes
+This is an incomplete knowladge base containg my notes and refrences for technologies used for Dkube
 
-Publish your public notes with MkDocs
+# TOC
+[[Docker_index]]
+[[K8s_index]]
 
-## Hello World!
 
-The `index.md` in the `/docs` folder is the homepage you see here.
+# Sireesha's refrences
+## Mlops 
+[https://itlligenze.com/uploads/5/137039/files/oreilly-ml-ops.pdf](https://itlligenze.com/uploads/5/137039/files/oreilly-ml-ops.pdf) [https://www.youtube.com/watch?v=HcqpanDadyQ](https://www.youtube.com/watch?v=HcqpanDadyQ) [https://www.youtube.com/watch?v=nKW8Ndu7Mjw](https://www.youtube.com/watch?v=nKW8Ndu7Mjw) 
 
-The folders in `/docs` appear as the main sections on the navigation bar.
+## Dkube:
+[https://www.dkube.io/products/datascience/mlops-workflow.php](https://www.dkube.io/products/datascience/mlops-workflow.php) [https://www.dkube.io/training-videos/](https://www.dkube.io/training-videos/) 
 
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+## MLOps
+[Workflowwww.dkube.io](http://Workflowwww.dkube.io) 
+
+## Robot automation: 
+[https://robotframework.org/](https://robotframework.org/) [https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html](https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html) 
+this is robot documentation.. you can go through the following video tutorial to get better understanding [https://youtube.com/playlist?list=PLL34mf651faORDOyJrk0E6k9FM-wKgfPV](https://youtube.com/playlist?list=PLL34mf651faORDOyJrk0E6k9FM-wKgfPV)
